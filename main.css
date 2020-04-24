@@ -11,11 +11,10 @@ body, html {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
 
 }
 .bgimg-1 {
-  background-image: url("img/cableporn-0.jpg");
+  background-image: url("img/cableporn-0.png");
   min-height: 100%;
 }
 
@@ -49,6 +48,7 @@ body, html {
 h3 {
   letter-spacing: 5px;
   text-transform: uppercase;
+  text-align:center;
   font: 20px "Lato", sans-serif;
   color: #111;
 }
@@ -65,8 +65,4 @@ section#explanation {
   background-color: white;
   padding: 50px 80px;
   text-align: justify;
-}
-
-h3 {
-  text-align:center;
 }
